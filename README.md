@@ -8,13 +8,13 @@ index.htmlを書き換えて, 自分のページに飛ばすリンクを貼る�
   
 その前にGitHubのアカウントを作成(プロコンのorganizationに招待します).  
 ターミナルを開いて  
-```$git```  
+`$git`  
 not found 的なエラーが出た時に  
   
 Mac  
-```brew install git```  
+`$brew install git`  
   
 Linux  
-```apt-get install git```  
+`$apt-get install git`
   
 で多分大丈夫
